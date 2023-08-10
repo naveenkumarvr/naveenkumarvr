@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naveenkumarvr&theme=github-light&hide_border=true&border_radius=4.7)](https://git.io/streak-stats) 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenkumarvr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naveenkumarvr&theme=github-light&hide_border=true&border_radius=4.7)](https://git.io/streak-stats) 
